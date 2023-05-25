@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m ✨ Carlos Figueroa ✨
+- 🔭 I’m currently working on new generation of [CoolCalc](https://www.coolcalc.com/)
+
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=Atixcarlos&show_icons=true)
+
